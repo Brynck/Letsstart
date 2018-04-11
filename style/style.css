@@ -1,0 +1,53 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: pink;
+    width: 100%;
+    height: 100vh;
+       
+}
+
+.container {
+    width: 100%;
+    height: 100%;
+    background-color: olivedrab;
+    margin: 0 auto;
+    text-align: center;
+    background-image: url('assets/waterfall.jpg');
+    background-size: cover;
+
+
+
+}
+
+h1 {
+    display: inline-block;
+    background-color: white;
+    border-radius: 50%;
+    height: 60%;
+    width: 60%;
+    border: 2px solid blue;
+
+
+}.waterfall {
+    width: 50%;
+
+}
+
+.one {
+
+    width: 30px;
+    height: 30px;
+    background-color: yellow;
+
+}
+.two {
+
+    width: 30px;
+    height: 30px;
+    background-color: purple;
+
+}
